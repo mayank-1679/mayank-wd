@@ -464,4 +464,7 @@ h3.icon_title {
   body {
     font-size: 14px;
   }
+  .cmn-front-head{
+    font-size: 2.8em;
+  }
 }
