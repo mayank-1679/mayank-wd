@@ -416,10 +416,12 @@ h3.icon_title {
 
 /* project section */
 .project-img {
-  width: 100%;
-  margin-top: 40px;
-  background: #fff;
-  border-radius: 0px;
+    width: 100%;
+    margin-top: 40px;
+    border-radius: 0px;
+    border: 2px solid #c7c7c7;
+  -webkit-filter: sepia(0);
+  filter: sepia(0);
 }
 .project-gallery-sec {
   padding-top: 40px;
@@ -429,10 +431,6 @@ h3.icon_title {
   filter: sepia(100%);
   -webkit-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out;
-}
-.project-img {
-  -webkit-filter: sepia(0);
-  filter: sepia(0);
 }
 .header-img {
   transform: translatey(0px);
