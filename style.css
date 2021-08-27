@@ -370,23 +370,22 @@ a:hover {
   margin-top: 50px;
 }
 .fa {
-  font-size: 30px;
+  font-size: 26px;
   color: #ffbd39;
   border-radius: 230px;
-  padding: 20px;
-  padding-top: 34px;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   background: rgba(255, 255, 255, 0.1);
+  padding-top: 28px;
 }
 .fa:hover {
   background-color: #ffbd39;
   color: rgba(255, 255, 255, 1);
   cursor: pointer;
-  padding-top: 54px;
-  font-size: 40px;
-  padding: 30px;
-  transition: 0.3s;
+  padding-top: 25px;
+  font-size: 28px;
+  /* padding: 30px; */
+  transition: 0.5s ease-in-out;
 }
 h3.icon_title {
   font-size: 17px;
@@ -481,8 +480,5 @@ h3.icon_title {
   }
   body {
     font-size: 14px;
-  }
-  .cmn-front-head{
-    font-size: 2.8em;
   }
 }
