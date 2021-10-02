@@ -198,10 +198,10 @@ a:hover {
   color: rgba(255, 255, 255, 0.1);
   font-weight: 900;
   font-size: 7vw;
-  position: absolute;
+/*   position: absolute; */
   line-height: 0;
-  top: 70px;
-  margin-left: -10px;
+/*   top: 70px; */
+/*   margin-left: -10px; */
 }
 #about_sec {
   padding-bottom: 9em;
