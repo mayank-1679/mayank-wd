@@ -124,9 +124,10 @@ a:hover {
   padding: 10em 0 6em;
 }
 #header_sec p {
-  padding: 20px 0;
-  font-size: 1.4em;
-  color: #fff;
+  font-size: 1.1em;
+    color: #fff;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
 }
 #header_sec .row {
   margin-bottom: -90px;
